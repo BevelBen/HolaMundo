@@ -1,4 +1,6 @@
-void main() {
-    IO.println("Hola Mundo!!!!");
-    IO.println("Matías Reyes");
+public class HolaMundo {
+    public static void main(String[] vars) {
+        IO.println("Hola Mundo");
+        IO.println("Sofía Menares");
+    }
 }
