@@ -25,6 +25,10 @@ Paso 5
 <img width="1920" height="1080" alt="Screenshot From 2026-09-02 23-53-42" src="https://github.com/user-attachments/assets/7e8a7858-9572-45f1-928e-3d5236c60c30" />
 <img width="1920" height="1080" alt="Screenshot From 2026-09-02 23-54-01" src="https://github.com/user-attachments/assets/50ead3b4-a06a-4553-9b32-fdbef3307316" />
 
+Paso 6
+<img width="1920" height="1080" alt="Screenshot From 2026-09-02 23-59-23" src="https://github.com/user-attachments/assets/f3aa13e0-713d-4ae6-8af7-ad69e7b1018c" />
+<img width="1920" height="1080" alt="Screenshot From 2026-09-02 23-59-55" src="https://github.com/user-attachments/assets/51740f66-fb91-4342-9838-be5069760ffb" />
+
 <h1>Evidencia Matías Reyes</h1>
 <img width="1870" height="990" alt="Captura de pantalla 2026-09-02 220328" src="https://github.com/user-attachments/assets/6c741a62-51a6-49cf-bbd1-b1747a4298bf" />
 <img width="1868" height="921" alt="Captura de pantalla 2026-09-02 220356" src="https://github.com/user-attachments/assets/561c73c1-762b-440a-aa50-29a074b8d17b" />
