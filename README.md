@@ -10,6 +10,21 @@ Paso 1
 <img width="1920" height="1080" alt="01Paso1" src="https://github.com/user-attachments/assets/918e0b9e-a6a1-4b76-aa95-39d9b17aa38e" />
 <img width="1920" height="1080" alt="02Paso1" src="https://github.com/user-attachments/assets/6f524104-f974-41b0-bcd7-c62a2591a70b" />
 
+Paso 2
+<img width="1920" height="1080" alt="01Paso22" src="https://github.com/user-attachments/assets/6fcda792-0911-4319-b3a3-f2264bd11836" />
+
+Paso 3
+<img width="1920" height="1080" alt="01Paso3" src="https://github.com/user-attachments/assets/948cfa66-f0c4-4268-b4b0-4161c92b7318" />
+<img width="1920" height="1080" alt="02Paso3" src="https://github.com/user-attachments/assets/d2f5fa10-bf50-4a5e-9436-0e419cc11420" />
+
+Paso 4
+<img width="1920" height="1080" alt="01Paso4" src="https://github.com/user-attachments/assets/2459973c-e33a-4271-a6bc-1cc4c262b119" />
+<img width="1920" height="1080" alt="02Paso4" src="https://github.com/user-attachments/assets/de59c837-8f22-41a7-9f8f-ae1dbfb2e2a1" />
+
+Paso 5
+<img width="1920" height="1080" alt="Screenshot From 2026-09-02 23-53-42" src="https://github.com/user-attachments/assets/7e8a7858-9572-45f1-928e-3d5236c60c30" />
+<img width="1920" height="1080" alt="Screenshot From 2026-09-02 23-54-01" src="https://github.com/user-attachments/assets/50ead3b4-a06a-4553-9b32-fdbef3307316" />
+
 <h1>Evidencia Matías Reyes</h1>
 <img width="1870" height="990" alt="Captura de pantalla 2026-09-02 220328" src="https://github.com/user-attachments/assets/6c741a62-51a6-49cf-bbd1-b1747a4298bf" />
 <img width="1868" height="921" alt="Captura de pantalla 2026-09-02 220356" src="https://github.com/user-attachments/assets/561c73c1-762b-440a-aa50-29a074b8d17b" />
