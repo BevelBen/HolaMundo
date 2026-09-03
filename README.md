@@ -43,3 +43,7 @@ Paso 6
 <h1>Evidencia Sofía Menares</h1>
 <img width="1720" height="956" alt="Screenshot 2026-09-02 234115" src="https://github.com/user-attachments/assets/b601585c-431a-4a78-aa78-60ef782885f7" />
 <img width="1589" height="913" alt="Screenshot 2026-09-02 235346" src="https://github.com/user-attachments/assets/363fc323-a8a1-43cf-a4dc-9c1b76677264" />
+
+<h1>Conclusiones</h1>
+
+Se pudo crear un repositorio con 3 ramas que, al tratar de integrarlas producian conflictos entre cada una, debido a la repetida aparición de la clase HolaMundo, estos conflictos se tuvieron que resolver antes de integrar las ramas, manteniendo los cambios actuales o simplemente dejando la version anterior.
